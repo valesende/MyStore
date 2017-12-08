@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">My Store</string>
+
+    <string name="empty_view_title_text">Your shop has no available items.</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a product.</string>
+
+    <string name="confirm_delete_all_products_message"> Are you sure you want to delete
+        all products?
+    </string>
+
+    <string name="delete_product_menu"> delete product </string>
+
+    <string name="delete_all_menu"> delete all</string>
+
+    <string name = "save_product_menu" > save product</string>
+
+    <string name="update_product_menu"> update product </string>
+
+    <string name = "confirm_product_deletion_message"> Are you sure you want to delete this
+        product?</string>
+
+    <string name = "confirm_discard_product_changes">
+        Do you want to discard the current changes?</string>
+
+    <string name = "positive_discard_changes" > Discard changes </string>
+
+    <string name = "negative_discard_changes" > Cancel </string>
+
+    <string name = "image_load_failed_error" > Image load failed. </string>
+
+    <string name = "positive_delete_product">Delete product</string>
+
+    <string name = "negative_delete_product">Cancel</string>
+
+    <string name = "product_delete_successful_toast">Product deleted successfully!</string>
+
+    <string name = "product_delete_unsuccessful_toast">Product could not be deleted</string>
+
+    <string name="positive_clear_database">Clear database</string>
+
+    <string name="database_clear_successful_toast">Database cleared successfully!</string>
+
+    <string name="database_clear_unsuccessful_toast">Database could not be cleared</string>
+
+    <string name="negative_clear_database">Cancel</string>
+
+    <string name = "supplier_name_hint" > Supplier name </string>
+
+    <string name = "supplier_email_hint" >Supplier email address </string>
+
+    <string name = "plus_sign" > + </string>
+
+    <string name = "minus_sign" > - </string>
+
+    <string name = "quantity_hint"> Quantity </string>
+
+    <string name = "price_hint" > Price </string>
+
+    <string name = "dollar_sign" > $ </string>
+
+    <string name = "title_hint" > Title </string>
+
+    <string name = "add_photo" > Add Photo </string>
+
+    <string name = "appbar_title_add_product" > Add Product</string>
+
+    <string name = "appbar_title_edit_product" > Edit Product</string>
+
+    <string name = "empty_text_input_error" > Text fields cannot be empty </string>
+
+    <string name = "invalid_characters_input_error" >
+        Text fields cannot have invalid characters!</string>
+
+    <string name = "empty_price_input_error" > Price field cannot be empty </string>
+
+    <string name = "invalid_price_input_error" > Invalid price </string>
+
+    <string name = "empty_quantity_field_error" > Quantity field cannot be empty </string>
+
+    <string name = "invalid_quantity_error" > Quantity cannot be below 0</string>
+
+    <string name = "invalid_email_input_error" > Invalid email address format </string>
+
+    <string name = "no_product_image_selected" > No product image selected </string>
+
+    <string name = "no_image_added"> No image added </string>
+
+    <string name="details_action_bar_label">Product Details</string>
+
+    <string name = "product_save_successful_toast" > Product saved successfully</string>
+
+    <string name = "product_save_failed_toast" > Product save failed</string>
+</resources>

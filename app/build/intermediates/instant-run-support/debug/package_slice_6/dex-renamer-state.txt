@@ -1,0 +1,4 @@
+#Wed Dec 06 11:33:14 EST 2017
+base.0=C\:\\Users\\Vivian\\Desktop\\MyStore\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
